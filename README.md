@@ -1,15 +1,54 @@
-# TOC Project 2020
+# 傳說小助理
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/dc7fa47fcd809b99d087/maintainability)](https://codeclimate.com/github/NCKU-CCS/TOC-Project-2020/maintainability)
+Template Code for TOC Project 202
+## 介紹
+藉由一個簡單的小機器人，帶你認識傳說對決這款手遊
 
-[![Known Vulnerabilities](https://snyk.io/test/github/NCKU-CCS/TOC-Project-2020/badge.svg)](https://snyk.io/test/github/NCKU-CCS/TOC-Project-2020)
+## 功能
+1.玩法、角色、職業查詢\
+2.每周限免英雄查詢\
+3.小小心理測驗
+
+## 環境
+* ubuntu 18.04
+* Python 3.6.9
+
+## 技術
+* Beautifulsoup4
+* 到官網抓取每周限免英雄及所有英雄資料 
+
+## 使用說明
+* 隨時輸入「restart」可重頭開始
+* 隨時輸入「back」可返回上一頁
+* 輸入`介紹`可獲得遊戲相關介紹
+    * 輸入`簡介`可獲得遊戲簡介
+	* 輸入`特色`可獲得遊戲特色
+	* 輸入`新手`可獲得新手需要的資訊
+		* 輸入`容易上手英雄`可得知適合新手的英雄
+		* 輸入`英雄定位`可得知遊戲個職業介紹
+			* 輸入想得知的職業後選擇`位置介紹` `攻略影片` `英雄`可察看該職業相應資訊
+* 輸入`英雄`可獲得英雄相關資訊
+	* 輸入`周免英雄free`可得知當周限免英雄
+	* 輸入`英雄介紹`後輸入`數字1~103`可查看該英雄資訊
+* 輸入`檢測適合位置`可玩心理測驗，一共六道題目，最後結果為五路之一  
 
 
-Template Code for TOC Project 2020
+## 效果展示
+![fsm](./img/IMG_20220102_210233.jpg)
+![fsm](./img/IMG_20220102_204616.jpg)
+![fsm](./img/IMG_20220102_210307.jpg)
+![fsm](./img/IMG_20220102_210332.jpg)
+![fsm](./img/IMG_20220102_210358.jpg)
+![fsm](./img/IMG_20220102_210417.jpg)
+![fsm](./img/IMG_20220102_210439.jpg)
+![fsm](./img/IMG_20220102_210458.jpg)
+![fsm](./img/IMG_20220102_210512.jpg)
+![fsm](./img/IMG_20220102_210531.jpg)
+![fsm](./img/IMG_20220102_210552.jpg)
+![fsm](./img/IMG_20220102_210706.jpg)
+![fsm](./img/IMG_20220102_210725.jpg)
+![fsm](./img/IMG_20220102_210908.jpg)
 
-A Line bot based on a finite state machine
-
-More details in the [Slides](https://hackmd.io/@TTW/ToC-2019-Project#) and [FAQ](https://hackmd.io/s/B1Xw7E8kN)
 
 ## Setup
 
