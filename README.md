@@ -1,6 +1,7 @@
 # 傳說小助理
 
-Template Code for TOC Project 202
+Template Code for TOC Project 2021
+
 ## 介紹
 藉由一個簡單的小機器人，帶你認識傳說對決這款手遊
 
