@@ -44,10 +44,11 @@ Template Code for TOC Project 202
 ![fsm](./img/IMG_20220102_210458.jpg)
 ![fsm](./img/IMG_20220102_210512.jpg)
 ![fsm](./img/IMG_20220102_210531.jpg)
-![fsm](./img/IMG_20220102_210552.jpg)
+![fsm](./img/IMG_20220102_215932.jpg)
 ![fsm](./img/IMG_20220102_210706.jpg)
 ![fsm](./img/IMG_20220102_210725.jpg)
 ![fsm](./img/IMG_20220102_210908.jpg)
+![fsm](./img/IMG_20220102_211506.jpg)
 
 
 ## Setup
