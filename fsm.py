@@ -5,7 +5,7 @@ from utils import send_multi_image,send_text_message, send_carousel_message, sen
 from linebot.models import ImageCarouselColumn, URITemplateAction, MessageTemplateAction,CarouselColumn
 from bs4 import BeautifulSoup
 import requests
-import pandas as pd
+
 
 class TocMachine(GraphMachine):
     def __init__(self, **machine_configs):
